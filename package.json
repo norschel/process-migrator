@@ -35,7 +35,7 @@
     "@types/minimist": "^1.2.2",
     "@types/mkdirp": "^0.5.2",
     "@types/node": "8.10.0",
-    "typescript": "^2.8.1"
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "azure-devops-node-api": "^6.5.0",
